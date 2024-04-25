@@ -1,0 +1,1 @@
+# Proof-of-concept-PoC-script-for-Privilege-escalation-and-System-enumeration-
